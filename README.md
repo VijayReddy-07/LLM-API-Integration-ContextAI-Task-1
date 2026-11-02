@@ -155,6 +155,17 @@ Your name is Vijay, and you are learning Python!
 
 This demonstrates how ContextAI uses previous conversation messages to answer follow-up questions.
 
+🖥️ Application Output
+
+1. ContextAI Chatbot Interface
+
+<img width="635" height="653" alt="image" src="https://github.com/user-attachments/assets/4d013192-6f38-4c75-8cbd-269e0b450190" />
+
+2. Multi-Turn Conversation and Context Retention
+
+<img width="689" height="545" alt="image" src="https://github.com/user-attachments/assets/f36cc39b-b758-465b-82f6-95eb5f229275" />
+<img width="587" height="317" alt="image" src="https://github.com/user-attachments/assets/e7aae470-22cf-4756-b0d8-514b1de983c7" />
+
 🔐 Security
 
 API keys are stored in environment variables.
